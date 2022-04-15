@@ -31,7 +31,7 @@ Provide up to three examples of work/projects that you’ve recently participate
  
  3.OneStopSmokeShop(Coursework Project)(In-Progress)
   A one stop online smoke shop to get best deals.
-  Working with a Team of 4 members to create a full-fledge website (Major highlight of the project-Deals options that fetches you the best deal for the dispencries     around your location)
+  Working with a Team of 4 members to create a full-fledge website (Major highlight of the project-Deals options that fetches you the best deal for the dispencries       around your location)
  My contribution.
  i.Requiremnt doc's and creating wire frames and UI/UX.
  ii.Creation of the landing page that includes sigin/signup ,search,deals ,google api integration,and one cateogry of the website i.e(Vapes at out store)
@@ -54,6 +54,7 @@ Provide up to three examples of work that has recently inspired you from a techn
  The online traning modules in the website to empower a person for the social cause excites me the most.
  The overall and the main concept of giving back to society that has a wide role in the personality of each evry human present on this planet inspired me the most.
  Apart from that the imagination of  the devlopers to create the website with plenty of functonality without maikng web page it look messy.
+ 
 2.ProPet Ware (https://www.propetware.com/)
  Since my childhood i have been very close to pets(Dog's) and love to spent my time my time with them. But with a pet came agreat responsibility.
  So by the virtue of the above mentioned website we can plan all the acitvites,medical attention ,grooming,daycare our pet needs.
