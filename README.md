@@ -19,7 +19,7 @@ Provide up to three examples of work/projects that you’ve recently participate
  The development of the new functionality decreased the time taken by the user for storing the data by 60%.
  Used: HTML/CSS/JS, JAVA, Git, JAVA Selenium, Figma, Azure Devops, Hp ALM, My Sql, Chrome DEV Tools.
  
-2.Personal Portfolio(Personal Project)
+2.Personal Portfolio(Personal Project)  URL- https://parihar-yogesh.netlify.app/
  Developed one page personal portfolio to enter the digital world to showcase my skills, experience, and my professional work experience.
  Designed UI/UX using figma  and draw.io.
  Used Css flexbox,css grid and other core concepts to style the web page and make it interesting.
