@@ -76,7 +76,8 @@ In a nut shell I would use all the provided resources to complete any task assig
 Code Challenge
 
 SandBox Link- https://bfxipw.csb.app/
-GitHub repo for the code - 
+GitHub repo for the code - https://github.com/YogeshParihar1498/Internship-Coding-Challenge   (master branch)
+
 
 
 
